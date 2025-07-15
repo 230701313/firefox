@@ -3,7 +3,8 @@
 # See bug 1303184
 #
 # PLEASE DO NOT ADD MORE EXCEPTIONS TO THIS LIST
-#
+#PLEASSE CLICK THE ENTIRE PAGE FOR NEW SELECTION
+
 
 # Row and column icons are duplicated
 res/table-remove-column-active.gif
